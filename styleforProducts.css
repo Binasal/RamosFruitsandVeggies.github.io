@@ -12,6 +12,21 @@ nav{
 nav img{
 	width: 70%;
 }
+
+table{
+	width:50px 40px;
+	height:30px;
+}
+th, td {
+		height: 50%;
+		font-size: 24px;
+		border: 1px solid black;
+		border-radius: 10px;
+		border: 1px solid black;
+		border-collapse: collapse;
+		position: relative;
+		padding: 15px 100px;;
+		}
 .links h1{
 	display:inline;
 	text-align: left;
